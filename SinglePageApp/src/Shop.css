@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:azure;
+}
+h1{
+    font-size: large;
+}
+.product{
+    height: 800px;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+.product:hover{
+    box-shadow: 20px 20px 20px black;
+}
+.shopbtn{
+    width: 130px;
+    background-color: rgb(95, 176, 14);
+    color:white;
+    border-radius: 20px;
+    border: none;
+
+}

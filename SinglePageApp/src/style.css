@@ -1,0 +1,18 @@
+body
+{
+    background-color: rgb(249, 251, 252);
+    padding: 20px;
+   
+}
+.prdctName
+{
+    color: rgb(16, 74, 106);
+    font-family: Cambria;
+    
+}
+.myClass
+{
+    background-color: brown;
+    color:rgb(255, 253, 253);
+    
+}
