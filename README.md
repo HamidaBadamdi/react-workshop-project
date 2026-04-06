@@ -1,6 +1,6 @@
 # 🚀 React JS Workshop Project
 
-[🌐 Live Demo](https://marvelous-llama-b07c7f.netlify.app)
+[🌐 Live Demo](https://joyful-empanada-da87c5.netlify.app)
 
 ![React](https://img.shields.io/badge/React-JS-blue?logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
@@ -31,4 +31,4 @@ Real-time React JS application developed during a 3-day hands-on workshop at Mar
 - Hamida Badamdi
 
 ## 🔗 Live Demo
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge&logo=netlify)](https://marvelous-llama-b07c7f.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge&logo=netlify)](joyful-empanada-da87c5.netlify.app)
